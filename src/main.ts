@@ -5,7 +5,6 @@ import { config } from './config';
 // Init.
 
 
-
 // Render.
 renderer.setSize(config.width, config.height);
 renderer.render(scene, mainCamera);
